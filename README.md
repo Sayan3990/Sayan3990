@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true" alt ="Sayan Bhattacharyya">
 </p>
-# Find me
+<h2>Find me</h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4">LinkedIn</a></li>
   <li><a href="https://www.hackerrank.com/sayan_bhatta2017">HackerRank</a></li>
