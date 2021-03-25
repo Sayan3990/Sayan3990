@@ -8,6 +8,7 @@
 <h2>Find me</h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4">LinkedIn</a></li>
+  <li><a href="https://github.com/Sayan3990">GitHub</a></li>
   <li><a href="https://www.hackerrank.com/sayan_bhatta2017">HackerRank</a></li>
   <li><a href="https://codeforces.com/profile/1905345">Codeforces</a></li>
   <li><a href="https://www.codechef.com/users/trust_me345">CodeChef</a></li>
