@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&hide_border=true&theme=chartreuse-dark&show_icons=true&" alt ="Sayan Bhattacharyya">
 </div>
 <h2>Find me</h2>
-<ul style={float: "left"}>
+<ul>
   <li><a href="https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4">LinkedIn</a></li>
   <li><a href="https://github.com/Sayan3990">GitHub</a></li>
   <li><a href="https://codeforces.com/profile/1905345">Codeforces</a></li>
