@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&hide_border=true&theme=chartreuse-dark&show_icons=true&" alt ="Sayan Bhattacharyya">
 </div>
 # Find me
-------------------------------------------------------------------------------------------------------
+
 * [LinkedIn](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4) 
 * [GitHub](https://github.com/Sayan3990)
 * [Codeforces](https://codeforces.com/profile/1905345)
