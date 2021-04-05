@@ -9,18 +9,14 @@
 
 <h1>Find me</h1>
   <ul>
-  <h3>Social Media</h3>
     <li><a href="https://github.com/Sayan3990">GitHub</a></li>
-    <li><a href="https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4">LinkedIn</a></li>
     <li><a href="https://dev.to/sayan3990">DEV</a></li>
-    <li><a href="https://twitter.com/Sayan_Bhatta345">Twitter</a></li>
-    <li><a href="https://www.facebook.com/sayan.bhattacharyya.3990/">Facebook</a></li>
-  </ul>
-  <ul>
-  <h3>Programming platforms</h3>
     <li><a href="https://codeforces.com/profile/1905345">Codeforces</a></li>
     <li><a href="https://www.codechef.com/users/trust_me345">CodeChef</a></li>
     <li><a href="https://www.hackerrank.com/sayan_bhatta2017">HackerRank</a></li>
-    <li><a href="https://leetcode.com/trust_me345">LeetCode</a></li>
     <li><a href="http://www.hackerearth.com/@sayan.bhatta2017">HackerEarth</a></li>
+    <li><a href="https://leetcode.com/trust_me345">LeetCode</a></li>
+    <li><a href="https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4">LinkedIn</a></li>
+    <li><a href="https://twitter.com/Sayan_Bhatta345">Twitter</a></li>
+    <li><a href="https://www.facebook.com/sayan.bhattacharyya.3990/">Facebook</a></li>
   </ul>
