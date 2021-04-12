@@ -12,12 +12,12 @@
   <tr>
     <td><a href="https://github.com/Sayan3990">GitHub</a></td>
     <td><a href="https://dev.to/sayan3990">DEV</a></td>
-    <td></td>
+    <td>qewqwe</td>
   </tr>
   <tr>
     <td><a href="https://codeforces.com/profile/1905345">Codeforces</a></td>
     <td><a href="https://www.codechef.com/users/trust_me345">CodeChef</a></td>
-    <td></td>
+    <td>qweqwew</td>
   </tr>
   <tr>
     <tr><a href="https://www.hackerrank.com/sayan_bhatta2017">HackerRank</a></tr>
