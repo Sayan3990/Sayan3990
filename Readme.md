@@ -1,10 +1,9 @@
 
-<h1 align="center"> Hey there, I'm Sayan Bhattacharyya 👋</h1>
+<h1 align="center"> Hey there, I'm Sayan Bhattacharyya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px"></h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true" alt ="Sayan Bhattacharyya">
 </div>
-
 <h1>Find me</h1>
 <table align="center">
   <tr>
@@ -22,8 +21,6 @@
     <td><a href="http://www.hackerearth.com/@sayan.bhatta2017">HackerEarth</a></td>
   </tr> 
 </table>
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&hide_border=true&theme=chartreuse-dark&show_icons=true&" alt ="Sayan Bhattacharyya">
 </div>
