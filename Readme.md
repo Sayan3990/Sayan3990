@@ -14,8 +14,8 @@
     <td><a href="https://www.facebook.com/sayan.bhattacharyya.3990/">Facebook</a></td>
   </tr>
   <tr>
-    <td><a href="https://leetcode.com/trust_me345">LeetCode</a></td>
     <td><a href="https://codeforces.com/profile/1905345">Codeforces</a></td>
+    <td><a href="https://leetcode.com/trust_me345">LeetCode</a></td>
     <td><a href="https://www.codechef.com/users/trust_me345">CodeChef</a></td>
     <td><a href="https://www.hackerrank.com/sayan_bhatta2017">HackerRank</a></td>
     <td><a href="http://www.hackerearth.com/@sayan.bhatta2017">HackerEarth</a></td>
