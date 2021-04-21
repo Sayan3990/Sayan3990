@@ -4,6 +4,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true" alt ="Sayan Bhattacharyya">
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&hide_border=true&theme=chartreuse-dark&show_icons=true&" alt ="Sayan Bhattacharyya">
-</div>
