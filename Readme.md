@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hey there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px"></h1>
 
-  Hi, I’m Salokya Kumar
+  Hi, I’m Sayan Bhattacharyya
 👀 I’m interested in MERN-stack Web Development
 
 <div align="center">
