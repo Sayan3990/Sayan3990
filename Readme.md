@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center"> Hey there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60"></h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true" alt ="Sayan Bhattacharyya's Github Activity" height="175px">
@@ -9,7 +6,7 @@
 <hr>
 <img alt="Sayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sayan3990&bg_color=000000&color=39FF14&line=FF0&point=F00&hide_border=true" />
 <hr>
-
+<h2 align="left"> Skills </h2>
 <table align="center" width="100">
 <tr>
     <td align='center' width="190">
