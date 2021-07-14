@@ -2,7 +2,7 @@
   Hey there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55"> 
 </h1>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan3990&theme=chartreuse-dark" width="60%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan3990&theme=chartreuse-dark&hide_border=true" width="60%">
 </div>
 <hr>
 <div align="center">
