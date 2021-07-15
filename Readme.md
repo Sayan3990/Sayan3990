@@ -42,10 +42,27 @@
           <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
       </td>
       <td align='center' width="190">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+          <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
       </td>
       <td align='center'>
           <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
       </td>
+  </tr>
+   <tr>
+      <td align='center'>
+          <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" width="90">
+      </td>
+      <td align='center'>
+          <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" width="60">
+      </td>
+      <td align='center'>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+      </td>
+<!--       <td align='center' width="190">
+          <img src="" width="60">
+      </td>
+      <td align='center'>
+          <img src="">
+      </td> -->
   </tr>
 </table>
