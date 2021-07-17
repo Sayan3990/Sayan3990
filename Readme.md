@@ -33,8 +33,9 @@
 
 ## Skills and Tools
 
+
 ### Web Development
-<table align="left" width="100">
+<table width="100">
   <tr>
       <td align='center' width="190">
           <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="100">
@@ -59,8 +60,9 @@
   </tr>
 </table>
 
+
 ### Database
-<table align="left" width="100">
+<table width="100">
   <tr>
       <td align='center'>
           <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
@@ -71,14 +73,16 @@
   </tr>
 </table>
 
+
 ### Version Control
-<table align="center" width="100">
+<table width="100">
    <tr>
       <td align='center'>
           <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" width="90">
       </td>
   </tr>
 </table>
+
 
 ## Github Stats
 
