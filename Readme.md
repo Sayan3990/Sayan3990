@@ -1,9 +1,9 @@
  
 # Hey there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
 
-- I'm Sayan Bhattacharyya from [India](https://en.wikipedia.org/wiki/India), pursuing my [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [KIIT University](https://kiit.ac.in/). 
-- I've a good amount of experience in [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Development and I am also a proficient [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming).
-- I’m currently working on various projects using MERN Stack.
+- I'm Sayan Bhattacharyya from [India](https://en.wikipedia.org/wiki/India), pursuing my [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [KIIT University](https://kiit.ac.in/)
+- I've a good amount of experience in [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Development and I am also a proficient [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming)
+- I’m currently working on various projects using MERN Stack
 - I’m looking to collaborate on any project that'll help me learn new things!
 
 ![Sayan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayan3990&bg_color=000000&color=39FF14&line=FF0&point=F00&hide_border=true)
@@ -33,8 +33,8 @@
 
 ## Skills and Tools
 
-#### Web Development
-<table align="center" width="100">
+### Web Development
+<table align="left" width="100">
   <tr>
       <td align='center' width="190">
           <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="100">
@@ -59,39 +59,24 @@
   </tr>
 </table>
 
-#### Database
-<table align="center" width="100">
+### Database
+<table align="left" width="100">
   <tr>
-      <td align='center'>
-          <img src="">
-      </td>
-      <td align='center'>
-          <img src="" width="60">
-      </td>
       <td align='center'>
           <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
       </td>
       <td align='center' width="190">
           <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
       </td>
-      
   </tr>
+</table>
+
+### Version Control
+<table align="center" width="100">
    <tr>
       <td align='center'>
           <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" width="90">
       </td>
-      <td align='center'>
-          <img src="" width="60">
-      </td>
-      <td align='center'>
-          <img src="" width="60">
-      </td>
-<!--       <td align='center' width="190">
-          <img src="" width="60">
-      </td>
-      <td align='center'>
-          <img src="">
-      </td> -->
   </tr>
 </table>
 
