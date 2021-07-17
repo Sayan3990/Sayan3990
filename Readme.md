@@ -43,11 +43,11 @@
       <td align='center' width="190">
           <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
       </td>
-      <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="100">
+      <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="80">
       </td>
-      <td align='center'>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="100">
+      <td align='center' width="190">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="80">
       </td>
   </tr>
   <tr>
