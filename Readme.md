@@ -98,8 +98,8 @@
   - [Portfolio](https://sayan-bhattacharyya.netlify.app/)
 
 ## Social
-  - [LinkedIn]("https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
+  - [LinkedIn](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
   - [Dev](https://dev.to/sayan3990)
-  - [Facebook]("https://www.facebook.com/sayan.bhattacharyya.3990)
+  - [Facebook](https://www.facebook.com/sayan.bhattacharyya.3990)
   - [Twitter](https://mobile.twitter.com/Sayan_Bhatta345)
   - [Instagram](https://www.instagram.com/sayan_bhatta_charyya/)
