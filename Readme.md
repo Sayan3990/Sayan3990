@@ -1,16 +1,17 @@
-<h1 align="center"> 
-  Hey there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55"> 
-</h1>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan3990&theme=chartreuse-dark&hide_border=true" width="60%">
-</div>
-<hr>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt ="Sayan Bhattacharyya's Github Activity" height="175px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=6&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true" alt ="Sayan Bhattacharyya's Most Used Langiages" height="175px">
-</div>
-<hr>
- <img alt="Sayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sayan3990&bg_color=000000&color=39FF14&line=FF0&point=F00&hide_border=true" />
+ 
+# Hey there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
+
+I'm Sayan Bhattacharyya from [India](https://en.wikipedia.org/wiki/India), pursuing my [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [KIIT University](https://kiit.ac.in/). I've a good amount of experience in [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Development and I am also a proficient [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming).
+
+
+![Sayan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayan3990&bg_color=000000&color=39FF14&line=FF0&point=F00&hide_border=true)
+
+## Github Stats
+![Sayan's Streak ](https://github-readme-streak-stats.herokuapp.com/?user=Sayan3990&theme=chartreuse-dark&hide_border=true)
+![Sayan's Github Activity](https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![Sayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=10&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true)
+
+
 <hr>
 <h2 align="left"> Skills </h2>
 <table align="center" width="100">
