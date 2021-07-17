@@ -32,14 +32,21 @@
 ![Sayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=10&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true)
 
 ## Skills and Tools
+
+#### Web Development
 <table align="center" width="100">
   <tr>
       <td align='center' width="190">
-          <img src="" width="100">
+          <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="100">
       </td>
       <td align='center' width="190">
-          <img src="">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
       </td>
+      <td align='center'>
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+      </td>
+  </tr>
+  <tr>
       <td align='center' width="190">
           <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
       </td>
@@ -47,15 +54,19 @@
           <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
       </td>
       <td align='center'>
-          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="100">
       </td>
   </tr>
+</table>
+
+#### Database
+<table align="center" width="100">
   <tr>
       <td align='center'>
-          <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+          <img src="">
       </td>
       <td align='center'>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+          <img src="" width="60">
       </td>
       <td align='center'>
           <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
@@ -63,9 +74,7 @@
       <td align='center' width="190">
           <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
       </td>
-      <td align='center'>
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-      </td>
+      
   </tr>
    <tr>
       <td align='center'>
