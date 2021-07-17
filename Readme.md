@@ -12,7 +12,7 @@
 <table align="center" width="100" >
   <tr>
       <td align='center' width="190">
-          <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" width="100">
+          <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" width="105">
       </td>
       <td align='center' width="190">
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
