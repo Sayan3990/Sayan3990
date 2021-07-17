@@ -38,10 +38,10 @@
 <table width="100">
   <tr>
       <td align='center' width="190">
-          <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="100">
+          <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="110">
       </td>
       <td align='center' width="190">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="70">
       </td>
       <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="80">
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="100">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="110">
       </td>
       <td align='center' width="190">
           <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
