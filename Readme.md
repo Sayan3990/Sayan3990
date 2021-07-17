@@ -38,7 +38,7 @@
 <table width="100">
   <tr>
       <td align='center' width="190">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="110">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="70">
       </td>
       <td align='center' width="190">
           <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="70">
@@ -75,6 +75,16 @@
       </td>
       <td align='center' width="190">
           <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+      </td>
+  </tr>
+</table>
+
+
+### Machine Learning
+<table width="100">
+   <tr>
+      <td align='center'>
+          <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tfjs.png?alt=media&token=82d52879-d2da-4e25-b94e-59cd7a39ce67" width="110">
       </td>
   </tr>
 </table>
