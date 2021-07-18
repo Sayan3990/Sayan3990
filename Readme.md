@@ -33,6 +33,8 @@
 
 ![Sayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=10&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true)
 
+
+
 ## Skills and Tools
 
 
@@ -101,13 +103,17 @@
   </tr>
 </table>
 
-
 ## Github Stats
 
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan3990&theme=chartreuse-dark&hide_border=true" alt="Sayan's Streak" width="49%">
     <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sayan's Github Activity" width="49%">
 </div>
+
+## Competitive Coding
+  - [HackerRank](https://www.hackerrank.com/sayan_bhatta2017)
+  - [CodeForces](https://codeforces.com/profile/1905345)
+  - [CodeChef](https://www.codechef.com/users/trust_me345)
 
 ## Connect With Me
   - [Mail](mailto:sayan.bhatta2017@gmail.com)
