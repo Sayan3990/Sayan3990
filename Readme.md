@@ -105,6 +105,9 @@
 
 ## Github Stats
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sayan3990" alt="Sayan3990" />
+</p>
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan3990&theme=chartreuse-dark&hide_border=true" alt="Sayan's Streak" width="49%">
     <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sayan's Github Activity" width="49%">
