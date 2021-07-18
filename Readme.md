@@ -26,7 +26,7 @@
           <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="100">
       </td>
       <td align='center' width="190">
-          <img src="https://www.vectorlogo.zone/logos/python/python.svg" width="100">
+          <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100">
       </td>
   </tr>
 <table>
