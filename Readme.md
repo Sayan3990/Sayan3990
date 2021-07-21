@@ -91,6 +91,9 @@
       <td align='center'>
           <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tfjs.png?alt=media&token=82d52879-d2da-4e25-b94e-59cd7a39ce67" width="110">
       </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="100">
+      </td>
   </tr>
 </table>
 
@@ -100,6 +103,9 @@
    <tr>
       <td align='center'>
           <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" width="90">
+      </td>
+      <td align='center'>
+          <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="80">
       </td>
   </tr>
 </table>
@@ -128,4 +134,3 @@
   - [Dev](https://dev.to/sayan3990)
   - [Facebook](https://www.facebook.com/sayan.bhattacharyya.3990)
   - [Twitter](https://mobile.twitter.com/Sayan_Bhatta345)
-  - [Instagram](https://www.instagram.com/sayan_bhatta_charyya/)
