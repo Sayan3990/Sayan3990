@@ -132,5 +132,6 @@
 ## Social
   - [LinkedIn](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
   - [Dev](https://dev.to/sayan3990)
+  - [Medium](https://medium.com/@sayan.bhatta2017)
   - [Facebook](https://www.facebook.com/sayan.bhattacharyya.3990)
   - [Twitter](https://mobile.twitter.com/Sayan_Bhatta345)
