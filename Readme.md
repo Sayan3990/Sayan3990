@@ -126,8 +126,8 @@
   - [CodeChef](https://www.codechef.com/users/trust_me345)
 
 ## Connect With Me
-  - [Mail](mailto:sayan.bhatta2017@gmail.com)
   - [Portfolio](https://sayan-bhattacharyya.netlify.app/)
+  - [Mail](mailto:sayan.bhatta2017@gmail.com)
 
 ## Social
   - [LinkedIn](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
