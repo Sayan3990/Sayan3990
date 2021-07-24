@@ -101,9 +101,9 @@
       <td align='center'>
           <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tfjs.png?alt=media&token=82d52879-d2da-4e25-b94e-59cd7a39ce67" width="110">
       </td>
-      <td align="center">
+      <!-- <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="100">
-      </td>
+      </td> -->
   </tr>
 </table>
 
