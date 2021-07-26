@@ -29,9 +29,9 @@
       <td align='center' width="190">
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
       </td>
-      <td align='center' width="190">
+      <!-- <td align='center' width="190">
           <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100">
-      </td>
+      </td> -->
       <td align='center' width="190">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100">
       </td>
@@ -85,16 +85,16 @@
       <td align='center' width="160">
           <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
       </td>
-      <td align='center' width="100">
+      <!-- <td align='center' width="100">
           <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/kisspng-logo-mysql-5-einfhrung-programmierung-referen-mysql-5b758eb2997347.9008911215344308986285.png?alt=media&token=444abc9b-afa5-4e6e-989e-c20ffd8732d9">
       </td>
       <td align='center' width="190">
           <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
-      </td>
+      </td> -->
   </tr>
 </table>
 
-
+<!-- 
 ### Machine Learning
 <table width="100">
    <tr>
@@ -112,7 +112,7 @@
       </td>
   </tr>
 </table>
-
+ -->
 
 ### Version Control
 <table width="100">
