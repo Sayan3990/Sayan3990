@@ -63,17 +63,17 @@
       </td>
   </tr>
   <tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="110">
+    <td align='center' width="150">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
       </td>
-      <td align='center' width="190">
+      <td align='center' width="150">
           <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
       </td>
-      <td align='center'>
+      <td align='center' width="150">
           <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
       </td>
-      <td align='center'>
-          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="100">
+      <td align='center' width="150">
+          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
       </td>
   </tr>
 </table>
