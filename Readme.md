@@ -41,7 +41,7 @@
   </tr>
 <table>
 
-![Sayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=10&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true)
+![Sayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=8&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true)
 
 
 ## Skills and Tools
