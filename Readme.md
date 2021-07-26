@@ -10,7 +10,6 @@
 
 ![Sayan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayan3990&bg_color=000000&color=39FF14&line=FF0&point=F00&hide_border=true)
 
-
 ## Github Stats
 
 <p align="center">
@@ -31,13 +30,13 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
       </td>
       <td align='center' width="190">
+          <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100">
+      </td>
+      <td align='center' width="190">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100">
       </td>
       <td align='center' width="190">
           <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="100">
-      </td>
-      <td align='center' width="190">
-          <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100">
       </td>
   </tr>
 <table>
@@ -45,9 +44,7 @@
 ![Sayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=10&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true)
 
 
-
 ## Skills and Tools
-
 
 ### Web Development
 <table width="100">
@@ -85,8 +82,11 @@
 ### DataBase
 <table width="100">
   <tr>
-      <td align='center'>
+      <td align='center' width="160">
           <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+      </td>
+      <td align='center' width="100">
+          <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/kisspng-logo-mysql-5-einfhrung-programmierung-referen-mysql-5b758eb2997347.9008911215344308986285.png?alt=media&token=444abc9b-afa5-4e6e-989e-c20ffd8732d9">
       </td>
       <td align='center' width="190">
           <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
@@ -98,12 +98,18 @@
 ### Machine Learning
 <table width="100">
    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="100">
+      </td>
+      <td align="center">
+        <img src="https://keras.io/img/logo.png" width="170">
+      </td>
+      <td align='center' width="55">
+        <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tensorflow-2.svg?alt=media&token=4c2ed0f0-9580-4af2-a02e-f1eb7ceb6007">
+      </td>
       <td align='center'>
           <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tfjs.png?alt=media&token=82d52879-d2da-4e25-b94e-59cd7a39ce67" width="110">
       </td>
-      <!-- <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="100">
-      </td> -->
   </tr>
 </table>
 
@@ -115,7 +121,7 @@
           <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" width="90">
       </td>
       <td align='center'>
-          <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="80">
+          <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="60">
       </td>
   </tr>
 </table>
