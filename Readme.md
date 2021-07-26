@@ -104,7 +104,7 @@
       <td align="center">
         <img src="https://keras.io/img/logo.png" width="170">
       </td>
-      <td align='center' width="55">
+      <td align='center' width="90">
         <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tensorflow-2.svg?alt=media&token=4c2ed0f0-9580-4af2-a02e-f1eb7ceb6007">
       </td>
       <td align='center'>
