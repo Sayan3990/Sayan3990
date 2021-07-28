@@ -124,14 +124,14 @@
 
 ### Version Control
 <table width="100">
-   <tr>
-      <td align='center'>
-          <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" width="90">
-      </td>
-      <td align='center'>
-          <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="60">
-      </td>
-  </tr>
+    <tr>
+        <td align='center'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" alt="Git" />
+        </td>
+        <td align='center'>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" alt="Github"/>
+        </td>
+    </tr>
 </table>
 
 ## Competitive Coding
