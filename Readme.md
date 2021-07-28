@@ -49,33 +49,33 @@
 ### Web Development
 <table width="100">
   <tr>
-      <td align='center' width="190">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="70">
-      </td>
-      <td align='center' width="190">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="70">
-      </td>
-      <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="80">
-      </td>
-      <td align='center' width="190">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="80">
-      </td>
-  </tr>
-  <tr>
-    <td align='center' width="180">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-      </td>
-      <td align='center' width="180">
-          <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-      </td>
-      <td align='center' width="180">
-          <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-      </td>
-      <td align='center' width="180">
-          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-      </td>
-  </tr>
+    <td align='center' data-aos="zoom-in" data-aos-delay="1000" width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" />
+    </td>
+    <td align='center' data-aos="zoom-in" data-aos-delay="1200" width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" />
+    </td>
+    <td align='center' data-aos="zoom-in" data-aos-delay="1400" width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="70" />
+    </td>
+    <td align='center' data-aos="zoom-in" data-aos-delay="1600" width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="70" />
+    </td>
+</tr>
+<tr>
+    <td align='center' data-aos="zoom-in" data-aos-delay="1200" width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" />
+    </td>
+    <td align='center' data-aos="zoom-in" data-aos-delay="1400" width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" />
+    </td>
+    <td align='center' data-aos="zoom-in" data-aos-delay="1600" width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" />
+    </td>
+    <td align='center' data-aos="zoom-in" data-aos-delay="1000" width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="70" />
+    </td>
+</tr>
 </table>
 
 ### App Development
