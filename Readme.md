@@ -49,30 +49,30 @@
 ### Web Development
 <table width="100">
   <tr>
-    <td align='center' data-aos="zoom-in" data-aos-delay="1000" width="190">
+    <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" />
     </td>
-    <td align='center' data-aos="zoom-in" data-aos-delay="1200" width="190">
+    <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" />
     </td>
-    <td align='center' data-aos="zoom-in" data-aos-delay="1400" width="190">
+    <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="70" />
     </td>
-    <td align='center' data-aos="zoom-in" data-aos-delay="1600" width="190">
+    <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="70" />
     </td>
 </tr>
 <tr>
-    <td align='center' data-aos="zoom-in" data-aos-delay="1200" width="190">
+    <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" />
     </td>
-    <td align='center' data-aos="zoom-in" data-aos-delay="1400" width="190">
+    <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" />
     </td>
-    <td align='center' data-aos="zoom-in" data-aos-delay="1600" width="190">
+    <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" />
     </td>
-    <td align='center' data-aos="zoom-in" data-aos-delay="1000" width="190">
+    <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="70" />
     </td>
 </tr>
@@ -89,17 +89,17 @@
 
 ### DataBase
 <table width="100">
-  <tr>
-      <td align='center' width="160">
-          <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-      </td>
-      <!-- <td align='center' width="100">
-          <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/kisspng-logo-mysql-5-einfhrung-programmierung-referen-mysql-5b758eb2997347.9008911215344308986285.png?alt=media&token=444abc9b-afa5-4e6e-989e-c20ffd8732d9">
-      </td>
-      <td align='center' width="190">
-          <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
-      </td> -->
-  </tr>
+    <tr>
+        <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70"/>
+        </td>
+        <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70"/>
+        </td>
+        <!-- <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80"/>
+        </td> -->
+    </tr>
 </table>
 
 <!-- 
