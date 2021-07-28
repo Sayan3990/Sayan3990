@@ -8,7 +8,7 @@
 - Feel free to ask, I'm happy to help! 💬
 - Visit my [Portfolio](https://sayan-bhattacharyya.netlify.app/) 👀
 
-![Sayan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayan3990&bg_color=000000&color=39FF14&line=4D4DFF&point=F00&hide_border=true&area=true)
+![Sayan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayan3990&bg_color=000000&color=39FF14&line=6FF&point=F00&hide_border=true&area=true)
 
 ## Github Stats
 
