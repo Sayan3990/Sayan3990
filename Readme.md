@@ -125,10 +125,10 @@
 ### Version Control
 <table width="100">
     <tr>
-        <td align='center'>
+        <td align='center' width="190">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" alt="Git" />
         </td>
-        <td align='center'>
+        <td align='center' width="190">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" alt="Github"/>
         </td>
     </tr>
