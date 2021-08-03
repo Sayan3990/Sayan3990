@@ -11,7 +11,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-sayan.bhatta2017-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sayan.bhatta2017@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Sayan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sayan-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/sayan.bhattacharyya.3990)
+[![Linkedin Badge](https://img.shields.io/badge/-Sayan-fff?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/sayan.bhattacharyya.3990)
 
 ![Sayan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayan3990&theme=chartreuse-dark&hide_border=true&area=true)
 
