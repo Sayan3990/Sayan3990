@@ -5,8 +5,12 @@
 - I've a good amount of experience in [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack evelopment and I am also a proficient [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 💻 
 - Currently I'm working on various projects using MERN Stack 👨‍💻
 - I’m looking to collaborate on any project that'll help me learn new things! 🤝🏻
-- Feel free to ask, I'm happy to help! 💬
 - Visit my [Portfolio](https://sayan-bhattacharyya.netlify.app/) 👀
+
+## Connect With Me
+
+[![Mail Badge](https://img.shields.io/badge/-sayan.bhatta2017-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sayan.bhatta2017@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Sayan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
 
 ![Sayan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayan3990&theme=chartreuse-dark&hide_border=true&area=true)
 
@@ -138,10 +142,6 @@
   - [HackerRank](https://www.hackerrank.com/sayan_bhatta2017)
   - [CodeForces](https://codeforces.com/profile/1905345)
   - [CodeChef](https://www.codechef.com/users/trust_me345)
-
-## Connect With Me
-  - [Portfolio](https://sayan-bhattacharyya.netlify.app/)
-  - [Mail](mailto:sayan.bhatta2017@gmail.com)
 
 ## Social
   - [LinkedIn](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
