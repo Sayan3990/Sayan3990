@@ -9,12 +9,13 @@
 
 ## Connect With Me
 
-[![Mail Badge](https://img.shields.io/badge/-sayan.bhatta2017-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sayan.bhatta2017@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Sayan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
-[![Dev Badge](https://img.shields.io/badge/-Sayan3990-0a0a0a?style=flat&labelColor=0a0a0a&logo=dev.to&logoColor=white)](https://dev.to/sayan3990)
-[![FaceBook Badge](https://img.shields.io/badge/-Sayan-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/sayan.bhattacharyya.3990)
-[![Medium Badge](https://img.shields.io/badge/-Sayan-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@sayan.bhatta2017)
-
+[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sayan.bhatta2017@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
+[![Dev Badge](https://img.shields.io/badge/-Dev.io-0a0a0a?style=flat&labelColor=0a0a0a&logo=dev.to&logoColor=white)](https://dev.to/sayan3990)
+[![FaceBook Badge](https://img.shields.io/badge/-FaceBook-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/sayan.bhattacharyya.3990)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@sayan.bhatta2017)
+[![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&labelColor=181717&logo=github&logoColor=white)]()
+[![Twitter Badge](https://img.shields.io/badge/-Github-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white)](https://mobile.twitter.com/Sayan_Bhatta345)
 
 ![Sayan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayan3990&theme=chartreuse-dark&hide_border=true&area=true)
 
@@ -146,10 +147,3 @@
   - [HackerRank](https://www.hackerrank.com/sayan_bhatta2017)
   - [CodeForces](https://codeforces.com/profile/1905345)
   - [CodeChef](https://www.codechef.com/users/trust_me345)
-
-## Social
-  - [LinkedIn](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
-  - [Dev](https://dev.to/sayan3990)
-  - [Medium](https://medium.com/@sayan.bhatta2017)
-  - [Facebook](https://www.facebook.com/sayan.bhattacharyya.3990)
-  - [Twitter](https://mobile.twitter.com/Sayan_Bhatta345)
