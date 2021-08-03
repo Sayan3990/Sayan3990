@@ -17,14 +17,13 @@
 [![FaceBook Badge](https://img.shields.io/badge/-FaceBook-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/sayan.bhattacharyya.3990)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white)](https://mobile.twitter.com/Sayan_Bhatta345)
 
-![Sayan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayan3990&theme=chartreuse-dark&hide_border=true&area=true)
-
 ## Github Stats
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Sayan3990" alt="Sayan3990" />
 </p>
 <div>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Sayan3990&theme=chartreuse-dark&hide_border=true&area=true" alt="Sayan's Activity Graph" width="100%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan3990&theme=chartreuse-dark&hide_border=true" alt="Sayan's Streak" width="49%">
     <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sayan's Github Activity" width="49%">
 </div>
