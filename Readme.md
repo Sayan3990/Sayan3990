@@ -109,25 +109,25 @@
     </tr>
 </table>
 
-<!-- 
+
 ### Machine Learning
 <table width="100">
    <tr>
-      <td align="center">
+      <!-- <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="100">
       </td>
       <td align="center">
         <img src="https://keras.io/img/logo.png" width="170">
-      </td>
+      </td> -->
       <td align='center' width="90">
         <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tensorflow-2.svg?alt=media&token=4c2ed0f0-9580-4af2-a02e-f1eb7ceb6007">
       </td>
-      <td align='center'>
+      <!-- <td align='center'>
           <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tfjs.png?alt=media&token=82d52879-d2da-4e25-b94e-59cd7a39ce67" width="110">
-      </td>
+      </td> -->
   </tr>
 </table>
- -->
+
 
 ### Version Control
 <table width="100">
