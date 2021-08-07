@@ -122,8 +122,8 @@
       <td align='center' width="90">
         <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tensorflow-2.svg?alt=media&token=4c2ed0f0-9580-4af2-a02e-f1eb7ceb6007">
       </td> -->
-      <td align='center'>
-          <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tfjs.png?alt=media&token=82d52879-d2da-4e25-b94e-59cd7a39ce67" width="110">
+      <td align='center' width="190">
+          <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tfjs.png?alt=media&token=82d52879-d2da-4e25-b94e-59cd7a39ce67" width="120">
       </td>
   </tr>
 </table>
