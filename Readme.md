@@ -1,9 +1,8 @@
 # Hi there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
 
 - I'm Sayan Bhattacharyya from [India](https://en.wikipedia.org/wiki/India), pursuing my [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [KIIT University](https://kiit.ac.in/) 🎓
-- I've a good amount of experience in [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack evelopment and I am also a proficient [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 💻 
-- Currently I'm working on various projects using MERN Stack 👨‍💻
-- I’m looking to collaborate on any project that'll help me learn new things! 🤝🏻
+- I've a good amount of experience in [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack evelopment and I am also a proficient [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 💻
+- I’m looking to collaborate on any project that'll help me to learn new things! 🤝🏻
 - Visit my [Portfolio](https://sayanbhattacharyya.me) 👀
 
 ## Connect With Me
