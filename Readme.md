@@ -87,8 +87,8 @@
 <!-- ### App Development
 <table width="100">
   <tr>
-      <td align='center' width="200">
-          <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/PNGIX.com_lostnunbound-png_4976868.png?alt=media&token=132fa318-0185-4445-a7b0-ae5e6d753cbc">
+      <td align='center' width="190">
+          <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/PNGIX.com_lostnunbound-png_4976868.png?alt=media&token=132fa318-0185-4445-a7b0-ae5e6d753cbc" width="180">
       </td>
   </tr>
 </table> -->
@@ -102,31 +102,44 @@
         <td align='center' width="190">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70"/>
         </td>
-        <!-- <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80"/>
-        </td> -->
     </tr>
 </table>
 
-
-### Machine Learning
+<!-- ### Machine Learning
 <table width="100">
    <tr>
-      <!-- <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="100">
+      <td align='center' width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="70">
       </td>
-      <td align="center">
-        <img src="https://keras.io/img/logo.png" width="170">
-      </td>
-      <td align='center' width="90">
-        <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tensorflow-2.svg?alt=media&token=4c2ed0f0-9580-4af2-a02e-f1eb7ceb6007">
-      </td> -->
       <td align='center' width="190">
           <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tfjs.png?alt=media&token=82d52879-d2da-4e25-b94e-59cd7a39ce67" width="120">
+      </td>
+      <td align="center" width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70">
+      </td>
+      <td align="center" width="190">
+        <img src="https://keras.io/img/logo.png" width="170">
       </td>
   </tr>
 </table>
 
+### Operating System
+<table width="100">
+    <tr>
+        <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" alt="Linux" />
+        </td>
+    </tr>
+</table>
+
+### Development Tools
+<table width="100">
+    <tr>
+        <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" alt="Linux" />
+        </td>
+    </tr>
+</table> -->
 
 ### Version Control
 <table width="100">
