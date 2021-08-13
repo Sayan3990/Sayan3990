@@ -105,7 +105,16 @@
     </tr>
 </table>
 
-<!-- ### Machine Learning
+<!-- ### Cloud Computing
+<table width="100">
+    <tr>
+        <td align='center' width="190">
+            <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="AWS" width="80"/>
+        </td>
+    </tr>
+</table>
+
+### Machine Learning
 <table width="100">
    <tr>
       <td align='center' width="190">
