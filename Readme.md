@@ -2,7 +2,6 @@
 
 - I'm Sayan Bhattacharyya from [India](https://en.wikipedia.org/wiki/India), pursuing my [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [KIIT University](https://kiit.ac.in/) 🎓
 - I've a good amount of experience in [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack evelopment and I am also a proficient [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 💻
-- I’m looking to collaborate on any project that'll help me to learn new things! 🤝🏻
 - Visit my [Portfolio](https://sayanbhattacharyya.me) 👀
 
 ## Connect With Me
@@ -84,14 +83,14 @@
 </tr>
 </table>
 
-<!-- ### App Development
+### App Development
 <table width="100">
   <tr>
       <td align='center' width="190">
           <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/PNGIX.com_lostnunbound-png_4976868.png?alt=media&token=132fa318-0185-4445-a7b0-ae5e6d753cbc" width="180">
       </td>
   </tr>
-</table> -->
+</table>
 
 ### DataBase
 <table width="100">
