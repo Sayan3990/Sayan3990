@@ -82,7 +82,7 @@
     </td>
 </tr>
 </table>
-
+<!-- 
 ### App Development
 <table width="100">
   <tr>
@@ -90,7 +90,7 @@
           <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/PNGIX.com_lostnunbound-png_4976868.png?alt=media&token=132fa318-0185-4445-a7b0-ae5e6d753cbc" width="180">
       </td>
   </tr>
-</table>
+</table> -->
 
 ### DataBase
 <table width="100">
