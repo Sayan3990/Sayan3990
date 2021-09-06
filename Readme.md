@@ -1,18 +1,18 @@
 # Hi there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
 
 - I'm Sayan Bhattacharyya from [India](https://en.wikipedia.org/wiki/India), pursuing my [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [KIIT University](https://kiit.ac.in/) 🎓
-- I've a good amount of experience in [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack evelopment and I am also a proficient [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 💻
+<!-- - I've a good amount of experience in [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack evelopment and I am also a proficient [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 💻 -->
 - Visit my [Portfolio](https://sayanbhattacharyya.me) 👀
 
 ## Connect With Me
 
 [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sayan.bhatta2017@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
-[![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/Sayan3990)
+<!-- [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/Sayan3990) -->
 [![Dev Badge](https://img.shields.io/badge/-Dev.io-0a0a0a?style=flat&labelColor=0a0a0a&logo=dev.to&logoColor=white)](https://dev.to/sayan3990)
-<!-- [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@sayan.bhatta2017) -->
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@sayan.bhatta2017)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white)](https://mobile.twitter.com/Sayan_Bhatta345)
 <!-- [![FaceBook Badge](https://img.shields.io/badge/-FaceBook-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/sayan.bhattacharyya.3990) -->
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white)](https://mobile.twitter.com/Sayan_Bhatta345) -->
 
 ## Github Stats
 
@@ -111,9 +111,9 @@
             <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="AWS" width="80"/>
         </td>
     </tr>
-</table>
+</table> -->
 
-### Machine Learning
+<!-- ### Machine Learning
 <table width="100">
    <tr>
       <td align='center' width="190">
@@ -129,6 +129,15 @@
         <img src="https://keras.io/img/logo.png" width="170">
       </td>
   </tr>
+</table> -->
+
+<!-- ### Data Analytics
+<table width="100">
+    <tr>
+        <td align='center' width="190">
+            <img src="https://symbols.getvecta.com/stencil_83/3_hadoop-icon.a8a351cd1a.svg" width="80" alt="hadoop" />
+        </td>
+    </tr>
 </table>
 
 ### Operating System
@@ -138,9 +147,9 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" alt="Linux" />
         </td>
     </tr>
-</table>
+</table> -->
 
-### Development Tools
+<!-- ### Development Tools
 <table width="100">
     <tr>
         <td align='center' width="190">
@@ -153,10 +162,10 @@
 <table width="100">
     <tr>
         <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" alt="Git" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" alt="Github"/>
         </td>
         <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" alt="Github"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" alt="Git" />
         </td>
     </tr>
 </table>
