@@ -138,7 +138,7 @@
             <img src="https://symbols.getvecta.com/stencil_83/3_hadoop-icon.a8a351cd1a.svg" width="80" alt="hadoop" />
         </td>
     </tr>
-</table>
+</table> -->
 
 ### Operating System
 <table width="100">
@@ -147,7 +147,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" alt="Linux" />
         </td>
     </tr>
-</table> -->
+</table>
 
 <!-- ### Development Tools
 <table width="100">
