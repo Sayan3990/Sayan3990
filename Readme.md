@@ -92,7 +92,7 @@
   </tr>
 </table> -->
 
-### DataBase
+<!-- ### DataBase
 <table width="100">
     <tr>
         <td align='center' width="190">
@@ -102,7 +102,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="PostgreSQL" width="70"/>
         </td>
     </tr>
-</table>
+</table> -->
 
 <!-- ### Cloud Computing
 <table width="100">
@@ -140,14 +140,14 @@
     </tr>
 </table> -->
 
-### Operating System
+<!-- ### Operating System
 <table width="100">
     <tr>
         <td align='center' width="190">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" alt="Linux" />
         </td>
     </tr>
-</table>
+</table> -->
 
 <!-- ### Development Tools
 <table width="100">
