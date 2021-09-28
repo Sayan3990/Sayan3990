@@ -1,16 +1,19 @@
 # Hi there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
 
-- I'm Sayan Bhattacharyya from [India](https://en.wikipedia.org/wiki/India), pursuing my [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [KIIT University](https://kiit.ac.in/) 🎓
+- [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science and Engineering](https://en.wikipedia.org/wiki/Computer_science) at [KIIT University](https://kiit.ac.in/) 🎓
+<!-- - [Data Science](https://en.wikipedia.org/wiki/Data_science) Enthusiast 💻 -->
+- [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Developer 🌍
+- [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 👨‍💻
 - Visit my [Portfolio](https://sayanbhattacharyya.me) 👀
-<!-- - I've a good amount of experience in [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack evelopment and I am also a proficient [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 💻 -->
+<!-- - I've a good amount of experience in  and I am also a proficient   -->
 
 ## Connect With Me
 
 [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sayan.bhatta2017@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white)](https://mobile.twitter.com/Sayan_Bhatta345)
 [![Dev Badge](https://img.shields.io/badge/-Dev.io-0a0a0a?style=flat&labelColor=0a0a0a&logo=dev.to&logoColor=white)](https://dev.to/sayan3990)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://medium.com/@sayan.bhatta2017)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white)](https://mobile.twitter.com/Sayan_Bhatta345) -->
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/Sayan3990) -->
 <!-- [![FaceBook Badge](https://img.shields.io/badge/-FaceBook-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/sayan.bhattacharyya.3990) -->
 
@@ -28,16 +31,16 @@
 ## Programming Languages
 <table align="center" width="100" >
   <tr>
-      <td align='center' width="190">
+      <td align='center' width="200">
           <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" width="110">
       </td>
-      <td align='center' width="190">
+      <td align='center' width="200">
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
       </td>
-      <td align='center' width="190">
+      <td align='center' width="200">
           <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100">
       </td>
-      <td align='center' width="190">
+      <td align='center' width="200">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100">
       </td>
       <!-- <td align='center' width="190">
@@ -51,6 +54,20 @@
 
 ## Skills and Tools
 
+<!-- ### Data Analytics
+<table width="100">
+    <tr>
+        <td align='center' width="190">
+            <img src="https://symbols.getvecta.com/stencil_83/3_hadoop-icon.a8a351cd1a.svg" width="80" alt="hadoop" />
+        </td>
+    </tr>
+    <tr>
+        <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter-notebook/jupyter-notebook-original.svg" width="80" alt="hadoop" />
+        </td>
+    </tr>
+</table> -->
+
 ### Web Development
 <table width="100">
   <tr>
@@ -63,9 +80,9 @@
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="70" />
     </td>
-    <td align='center' width="190">
+    <!-- <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="70" />
-    </td>
+    </td> -->
 </tr>
 <tr>
     <td align='center' width="190">
@@ -77,9 +94,9 @@
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" />
     </td>
-    <td align='center' width="190">
+    <!-- <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="70" />
-    </td>
+    </td> -->
 </tr>
 </table>
 <!-- 
@@ -92,7 +109,7 @@
   </tr>
 </table> -->
 
-<!-- ### DataBase
+### DataBase
 <table width="100">
     <tr>
         <td align='center' width="190">
@@ -102,7 +119,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="PostgreSQL" width="70"/>
         </td>
     </tr>
-</table> -->
+</table>
 
 <!-- ### Cloud Computing
 <table width="100">
@@ -129,15 +146,6 @@
         <img src="https://keras.io/img/logo.png" width="170">
       </td>
   </tr>
-</table> -->
-
-<!-- ### Data Analytics
-<table width="100">
-    <tr>
-        <td align='center' width="190">
-            <img src="https://symbols.getvecta.com/stencil_83/3_hadoop-icon.a8a351cd1a.svg" width="80" alt="hadoop" />
-        </td>
-    </tr>
 </table> -->
 
 <!-- ### Operating System
@@ -171,6 +179,7 @@
 </table>
 
 ## Competitive Coding
-  - [HackerRank](https://www.hackerrank.com/sayan_bhatta2017)
   - [CodeForces](https://codeforces.com/profile/1905345)
+  - [HackerRank](https://www.hackerrank.com/sayan_bhatta2017)
+  - [LeetCode](https://leetcode.com/trust_me345/)
   - [CodeChef](https://www.codechef.com/users/trust_me345)
