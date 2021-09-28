@@ -1,10 +1,10 @@
 # Hi there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
 
 - [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science and Engineering](https://en.wikipedia.org/wiki/Computer_science) at [KIIT University](https://kiit.ac.in/) 🎓
-<!-- - [Data Science](https://en.wikipedia.org/wiki/Data_science) Enthusiast 💻 -->
 - [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Developer 🌍
 - [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 👨‍💻
 - Visit my [Portfolio](https://sayanbhattacharyya.me) 👀
+<!-- - [Data Science](https://en.wikipedia.org/wiki/Data_science) Enthusiast 💻 -->
 <!-- - I've a good amount of experience in  and I am also a proficient   -->
 
 ## Connect With Me
@@ -58,14 +58,36 @@
 <table width="100">
     <tr>
         <td align='center' width="190">
-            <img src="https://symbols.getvecta.com/stencil_83/3_hadoop-icon.a8a351cd1a.svg" width="80" alt="hadoop" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="80" alt="Jupyter Notebook"  />
         </td>
-    </tr>
-    <tr>
         <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter-notebook/jupyter-notebook-original.svg" width="80" alt="hadoop" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  width="80" alt="NumPy"/>
+        </td>
+        <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  width="80" alt="Pandas"/>
+        </td>
+        <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  width="80" alt="NumPy"/>
         </td>
     </tr>
+</table> -->
+<!-- 
+### Machine Learning
+<table width="100">
+   <tr>
+      <td align='center' width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="70">
+      </td>
+      <td align='center' width="190">
+          <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tfjs.png?alt=media&token=82d52879-d2da-4e25-b94e-59cd7a39ce67" width="120">
+      </td>
+      <td align="center" width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70">
+      </td>
+      <td align="center" width="190">
+        <img src="https://keras.io/img/logo.png" width="170">
+      </td>
+  </tr>
 </table> -->
 
 ### Web Development
@@ -80,9 +102,9 @@
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="70" />
     </td>
-    <!-- <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="70" />
-    </td> -->
+    <td align='center' width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="70" />
+    </td>
 </tr>
 <tr>
     <td align='center' width="190">
@@ -94,20 +116,11 @@
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" />
     </td>
-    <!-- <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="70" />
-    </td> -->
+    <td align='center' width="190">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="70" />
+    </td>
 </tr>
 </table>
-<!-- 
-### App Development
-<table width="100">
-  <tr>
-      <td align='center' width="190">
-          <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/PNGIX.com_lostnunbound-png_4976868.png?alt=media&token=132fa318-0185-4445-a7b0-ae5e6d753cbc" width="180">
-      </td>
-  </tr>
-</table> -->
 
 ### DataBase
 <table width="100">
@@ -129,26 +142,8 @@
         </td>
     </tr>
 </table> -->
-
-<!-- ### Machine Learning
-<table width="100">
-   <tr>
-      <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="70">
-      </td>
-      <td align='center' width="190">
-          <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tfjs.png?alt=media&token=82d52879-d2da-4e25-b94e-59cd7a39ce67" width="120">
-      </td>
-      <td align="center" width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70">
-      </td>
-      <td align="center" width="190">
-        <img src="https://keras.io/img/logo.png" width="170">
-      </td>
-  </tr>
-</table> -->
-
-<!-- ### Operating System
+<!-- 
+### Operating System
 <table width="100">
     <tr>
         <td align='center' width="190">
