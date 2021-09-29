@@ -2,9 +2,9 @@
 
 - [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science and Engineering](https://en.wikipedia.org/wiki/Computer_science) at [KIIT University](https://kiit.ac.in/) 🎓
 - [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Developer 🌍
+- [Data Science](https://en.wikipedia.org/wiki/Data_science) Enthusiast 💻
 - [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 👨‍💻
 - Visit my [Portfolio](https://sayanbhattacharyya.me) 👀
-<!-- - [Data Science](https://en.wikipedia.org/wiki/Data_science) Enthusiast 💻 -->
 <!-- - I've a good amount of experience in  and I am also a proficient   -->
 
 ## Connect With Me
