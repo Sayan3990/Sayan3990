@@ -4,7 +4,7 @@
 - [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Developer 🌍
 - [Data Science](https://en.wikipedia.org/wiki/Data_science) Enthusiast 💻
 - [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 👨‍💻
-- Visit my [Portfolio](https://sayanbhattacharyya.me) 👀
+- Visit My [Portfolio](https://sayanbhattacharyya.me) 👀
 <!-- - I've a good amount of experience in  and I am also a proficient   -->
 
 ## Connect With Me
