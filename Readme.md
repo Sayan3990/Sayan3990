@@ -38,7 +38,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
       </td>
       <td rowspan='2' width="360">
-          <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=8&hide_border=true&theme=chartreuse-dark&show_icons=true' >
+          <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=6&hide_border=true&theme=chartreuse-dark&show_icons=true' >
       </td>
   </tr>
   <tr>
@@ -52,9 +52,11 @@
           <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="100">
       </td> -->
   </tr>
-<table>
+</table>
+
 <!-- 
 ![Sayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=8&hide_border=true&theme=chartreuse-dark&show_icons=true) -->
+
 
 
 ## Skills and Tools
