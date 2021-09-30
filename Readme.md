@@ -31,17 +31,12 @@
 ## Programming Languages
 <table align="left" width="100" >
   <tr>
-      <td align='center' width="180">
+      <td align='center' width="200">
           <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" width="110">
       </td>
-      <td align='center' width="180">
+      <td align='center' width="200">
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
       </td>
-      <td rowspan='2' width="360">
-          <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=6&hide_border=true&theme=chartreuse-dark&show_icons=true' >
-      </td>
-  </tr>
-  <tr>
       <td align='center' width="200">
           <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100">
       </td>
@@ -52,11 +47,9 @@
           <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="100">
       </td> -->
   </tr>
-</table>
+<table>
 
-<!-- 
-![Sayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=8&hide_border=true&theme=chartreuse-dark&show_icons=true) -->
-
+![Sayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=8&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true)
 
 
 ## Skills and Tools
