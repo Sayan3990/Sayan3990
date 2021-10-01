@@ -1,10 +1,10 @@
 # Hi there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
 
-- [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science and Engineering](https://en.wikipedia.org/wiki/Computer_science) at [KIIT University](https://kiit.ac.in/) 🎓
-- [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Developer 🌍
-- [Data Science](https://en.wikipedia.org/wiki/Data_science) Enthusiast 💻
-- [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 👨‍💻
-- Visit My [Portfolio](https://sayanbhattacharyya.me) 👀
+<!-- - [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science and Engineering](https://en.wikipedia.org/wiki/Computer_science) at [KIIT University](https://kiit.ac.in/) 🎓 -->
+<!-- - [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Developer 🌍 -->
+<!-- - [Data Science](https://en.wikipedia.org/wiki/Data_science) Enthusiast 💻 -->
+<!-- - [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 👨‍💻 -->
+<!-- - Visit My [Portfolio](https://sayanbhattacharyya.me) 👀 -->
 <!-- - I've a good amount of experience in  and I am also a proficient   -->
 
 ## Connect With Me
@@ -28,6 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sayan's Github Activity" width="49%">
 </div>
 
+<!--
 ## Programming Languages
 <table align="left" width="100" >
   <tr>
@@ -43,9 +44,9 @@
       <td align='center' width="200">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100">
       </td>
-      <!-- <td align='center' width="190">
+      <td align='center' width="190">
           <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="100">
-      </td> -->
+      </td>
   </tr>
 <table>
 
@@ -54,7 +55,7 @@
 
 ## Skills and Tools
 
-<!-- ### Data Analytics
+### Data Analytics
 <table width="100">
     <tr>
         <td align='center' width="190">
@@ -70,8 +71,8 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  width="80" alt="NumPy"/>
         </td>
     </tr>
-</table> -->
-<!-- 
+</table>
+
 ### Machine Learning
 <table width="100">
    <tr>
@@ -88,7 +89,7 @@
         <img src="https://keras.io/img/logo.png" width="170">
       </td>
   </tr>
-</table> -->
+</table>
 
 ### Web Development
 <table width="100">
@@ -134,15 +135,15 @@
     </tr>
 </table>
 
-<!-- ### Cloud Computing
+### Cloud Computing
 <table width="100">
     <tr>
         <td align='center' width="190">
             <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="AWS" width="80"/>
         </td>
     </tr>
-</table> -->
-<!-- 
+</table>
+
 ### Operating System
 <table width="100">
     <tr>
@@ -150,16 +151,16 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" alt="Linux" />
         </td>
     </tr>
-</table> -->
+</table>
 
-<!-- ### Development Tools
+### Development Tools
 <table width="100">
     <tr>
         <td align='center' width="190">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" alt="Linux" />
         </td>
     </tr>
-</table> -->
+</table>
 
 ### Version Control
 <table width="100">
@@ -178,3 +179,5 @@
   - [HackerRank](https://www.hackerrank.com/sayan_bhatta2017)
   - [LeetCode](https://leetcode.com/trust_me345/)
   - [CodeChef](https://www.codechef.com/users/trust_me345)
+
+-->
