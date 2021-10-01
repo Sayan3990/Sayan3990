@@ -1,14 +1,11 @@
 # Hi there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
-
 <!-- - [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science and Engineering](https://en.wikipedia.org/wiki/Computer_science) at [KIIT University](https://kiit.ac.in/) 🎓 -->
 <!-- - [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Developer 🌍 -->
 <!-- - [Data Science](https://en.wikipedia.org/wiki/Data_science) Enthusiast 💻 -->
 <!-- - [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 👨‍💻 -->
 <!-- - Visit My [Portfolio](https://sayanbhattacharyya.me) 👀 -->
 <!-- - I've a good amount of experience in  and I am also a proficient   -->
-
-## Connect With Me
-
+<!-- ## Connect With Me -->
 [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sayan.bhatta2017@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
 [![Dev Badge](https://img.shields.io/badge/-Dev.io-0a0a0a?style=flat&labelColor=0a0a0a&logo=dev.to&logoColor=white)](https://dev.to/sayan3990)
@@ -24,8 +21,8 @@
 </p>
 <div>
     <img src="https://activity-graph.herokuapp.com/graph?username=Sayan3990&theme=chartreuse-dark&hide_border=true&area=true" alt="Sayan's Activity Graph" width="100%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan3990&theme=chartreuse-dark&hide_border=true" alt="Sayan's Streak" width="49%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sayan's Github Activity" width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan3990&theme=chartreuse-dark&hide_border=true" alt="Sayan's Streak" width="49%" align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sayan's Github Activity" width="49%" align="right">
 </div>
 
 <!--
