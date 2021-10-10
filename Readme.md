@@ -27,7 +27,7 @@
 </div>
 
 ## Programming Languages
-<table align="left" width="100" >
+<table align="center" width="100" >
   <tr>
       <td align='center' width="200">
           <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" width="110">
