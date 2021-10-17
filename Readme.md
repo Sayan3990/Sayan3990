@@ -16,7 +16,6 @@
 <!-- [![FaceBook Badge](https://img.shields.io/badge/-FaceBook-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/sayan.bhattacharyya.3990) -->
 
 ## Github Stats
-
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Sayan3990" alt="Sayan3990" />
 </p>
