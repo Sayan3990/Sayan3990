@@ -1,8 +1,8 @@
 # Hi there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
 
 - [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science and Engineering](https://en.wikipedia.org/wiki/Computer_science) at [KIIT University](https://kiit.ac.in/) 🎓
-- [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Developer 🌍
 - [Data Science](https://en.wikipedia.org/wiki/Data_science) Enthusiast 💻
+- [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Developer 🌍
 - [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 👨‍💻
 - Visit My [Portfolio](https://sayanbhattacharyya.me) 👀
    
