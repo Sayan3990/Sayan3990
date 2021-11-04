@@ -24,7 +24,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan3990&theme=chartreuse-dark&hide_border=true" alt="Sayan's Streak" width="49%" >
     <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sayan's Github Activity" width="49%">
 </div>
-
+<!-- 
 ## Programming Languages
 <table align="center" width="100" >
   <tr>
@@ -41,7 +41,7 @@
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100">
       </td>
   </tr>
-<table>
+<table> -->
 
 ![Sayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=8&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true)
 
