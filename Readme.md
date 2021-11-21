@@ -5,7 +5,6 @@
 - [MERN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) Stack Web Developer 🌍
 - Visit My [Portfolio](https://sayanbhattacharyya.me) 👀
 <!-- - [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 👨‍💻 -->
-   
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white)](https://mobile.twitter.com/Sayan_Bhatta345) -->
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/Sayan3990) -->
 <!-- [![FaceBook Badge](https://img.shields.io/badge/-FaceBook-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/sayan.bhattacharyya.3990) -->
