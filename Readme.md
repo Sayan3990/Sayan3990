@@ -19,8 +19,6 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=Sayan3990&theme=chartreuse-dark&hide_border=true&area=true" alt="Sayan's Activity Graph" width="100%">
 </div>
 
-
-
 ## Connect With Me
 [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sayan.bhatta2017@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
