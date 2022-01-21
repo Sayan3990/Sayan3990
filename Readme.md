@@ -3,13 +3,13 @@
 <!-- - [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science and Engineering](https://en.wikipedia.org/wiki/Computer_science) at [KIIT University](https://kiit.ac.in/) 🎓 -->
 <!-- - [Data Science](https://en.wikipedia.org/wiki/Data_science) and [Networking](https://en.wikipedia.org/wiki/Computer_network) Enthusiasm 🌍 -->
 <!-- - [Web Development](https://en.wikipedia.org/wiki/React_(JavaScript_library)) 💻 -->
-### Visit My [Portfolio](https://sayanbhattacharyya.me) 👀
+<!-- ### Visit My [Portfolio](https://sayanbhattacharyya.me) 👀 -->
 <!-- - [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 👨‍💻 -->
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white)](https://mobile.twitter.com/Sayan_Bhatta345) -->
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/Sayan3990) -->
 <!-- [![FaceBook Badge](https://img.shields.io/badge/-FaceBook-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/sayan.bhattacharyya.3990) -->
 
-## Github Stats
+<!-- ## Github Stats -->
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Sayan3990" alt="Sayan3990" />
 </p>
