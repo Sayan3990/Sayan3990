@@ -9,6 +9,8 @@
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/Sayan3990) -->
 <!-- [![FaceBook Badge](https://img.shields.io/badge/-FaceBook-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/sayan.bhattacharyya.3990) -->
 
+An ambitious Software Developer with a strong desire to learn new things, expand my skillset, explore, and lead. My goal is to apply what I've learned to tackle real-world challenges.
+
 <!-- ## Github Stats -->
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Sayan3990" alt="Sayan3990" />
