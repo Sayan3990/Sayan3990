@@ -1,17 +1,7 @@
 # Hi there, I'm Sayan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
 
-<!-- - [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science and Engineering](https://en.wikipedia.org/wiki/Computer_science) at [KIIT University](https://kiit.ac.in/) 🎓 -->
-<!-- - [Data Science](https://en.wikipedia.org/wiki/Data_science) and [Networking](https://en.wikipedia.org/wiki/Computer_network) Enthusiasm 🌍 -->
-<!-- - [Web Development](https://en.wikipedia.org/wiki/React_(JavaScript_library)) 💻 -->
-<!-- ### Visit My [Portfolio](https://sayanbhattacharyya.me) 👀 -->
-<!-- - [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 👨‍💻 -->
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white)](https://mobile.twitter.com/Sayan_Bhatta345) -->
-<!-- [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/Sayan3990) -->
-<!-- [![FaceBook Badge](https://img.shields.io/badge/-FaceBook-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/sayan.bhattacharyya.3990) -->
-
 <!-- An ambitious Software Developer with a strong desire to learn new things, expand my skillset, explore and lead. My goal is to apply what I've learned to tackle real-world challenges. -->
 
-<!-- ## Github Stats -->
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Sayan3990" alt="Sayan3990" />
 </p>
@@ -22,24 +12,6 @@
 <!--     <img src="https://activity-graph.herokuapp.com/graph?username=Sayan3990&theme=chartreuse-dark&hide_border=true&area=true" alt="Sayan's Activity Graph" width="100%"> -->
 </div>
 
-<!-- ## Programming Languages
-<table align="center" width="100" >
-  <tr>
-      <td align='center' width="200">
-          <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" width="110">
-      </td>
-      <td align='center' width="200">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
-      </td>
-      <td align='center' width="200">
-          <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100">
-      </td>
-      <td align='center' width="200">
-          <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100">
-      </td>
-  </tr>
-<table>
- -->
  
 ## Connect With Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-bhattacharyya-aa44a61a4/)
@@ -48,134 +20,3 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white)](https://mobile.twitter.com/Sayan_Bhatta345)
 [![Dev Badge](https://img.shields.io/badge/-Dev.io-0a0a0a?style=flat&labelColor=0a0a0a&logo=dev.to&logoColor=white)](https://dev.to/sayan3990)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sayan_bhatta_charyya/)
-
-
-<!--
-## Skills and Tools
-
-### Data Analytics
-<table width="100">
-    <tr>
-        <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="80" alt="Jupyter Notebook"  />
-        </td>
-        <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  width="80" alt="NumPy"/>
-        </td>
-        <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  width="80" alt="Pandas"/>
-        </td>
-        <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  width="80" alt="NumPy"/>
-        </td>
-    </tr>
-</table>
-
-### Machine Learning
-<table width="100">
-   <tr>
-      <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="70">
-      </td>
-      <td align='center' width="190">
-          <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/tfjs.png?alt=media&token=82d52879-d2da-4e25-b94e-59cd7a39ce67" width="120">
-      </td>
-      <td align="center" width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70">
-      </td>
-      <td align="center" width="190">
-        <img src="https://keras.io/img/logo.png" width="170">
-      </td>
-  </tr>
-</table>
-
-### Web Development
-<table width="100">
-  <tr>
-    <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" />
-    </td>
-    <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" />
-    </td>
-    <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="70" />
-    </td>
-    <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="70" />
-    </td>
-</tr>
-<tr>
-    <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" />
-    </td>
-    <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" />
-    </td>
-    <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" />
-    </td>
-    <td align='center' width="190">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="70" />
-    </td>
-</tr>
-</table>
-
-### DataBase
-<table width="100">
-    <tr>
-        <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70"/>
-        </td>
-        <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="PostgreSQL" width="70"/>
-        </td>
-    </tr>
-</table>
-
-### Cloud Computing
-<table width="100">
-    <tr>
-        <td align='center' width="190">
-            <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="AWS" width="80"/>
-        </td>
-    </tr>
-</table>
-
-### Operating System
-<table width="100">
-    <tr>
-        <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" alt="Linux" />
-        </td>
-    </tr>
-</table>
-
-### Development Tools
-<table width="100">
-    <tr>
-        <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" alt="Linux" />
-        </td>
-    </tr>
-</table>
-
-### Version Control
-<table width="100">
-    <tr>
-        <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" alt="Github"/>
-        </td>
-        <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" alt="Git" />
-        </td>
-    </tr>
-</table>
-
-## Competitive Coding
-  - [CodeForces](https://codeforces.com/profile/1905345)
-  - [HackerRank](https://www.hackerrank.com/sayan_bhatta2017)
-  - [LeetCode](https://leetcode.com/trust_me345/)
-  - [CodeChef](https://www.codechef.com/users/trust_me345)
-
--->
