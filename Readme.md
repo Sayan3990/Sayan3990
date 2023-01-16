@@ -1,7 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">  -->
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi+there%2C+I'm+Sayan!" align="middle" alt="Hi there, I'm Sayan!">
-
-<!-- # Hi there, I'm Sayan  -->
+<img  src="assests/borderseperator.gif">
 
 <!-- An ambitious Software Developer with a strong desire to learn new things, expand my skillset, explore and lead. My goal is to apply what I've learned to tackle real-world challenges. -->
 
