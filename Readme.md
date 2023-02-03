@@ -2,11 +2,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi+there%2C+I'm+Sayan!" align="middle" alt="Hi there, I'm Sayan!">
 <img  src="assests/borderseperator.gif">
 
-<!-- An ambitious Software Developer with a strong desire to learn new things, expand my skillset, explore and lead. My goal is to apply what I've learned to tackle real-world challenges. -->
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Sayan3990" alt="Sayan3990" />
 </p>
+
+<!-- <p>
+    After getting into computer science and software development, I realized that I could now help millions of people by providing dependable software. So I want to be a skilled software developer who has a great passion to explore, lead, and learn new things. My goal is to apply what I've learned to tackle real-world challenges. Right now, I'm passionate about backend development and software architecture.
+</p> -->
 
 [![Sayan3990's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sayan3990&custom_title=Sayan3990's%20GitHub%20Activity%20Graph&theme=chartreuse-dark&area=true&hide_border=true)](https://github.com/Sayan3990/github-readme-activity-graph)
 
