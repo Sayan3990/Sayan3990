@@ -8,9 +8,10 @@
 
 <!-- <p>
     After getting into computer science and software development, I realized that I could now help millions of people by providing dependable software. So I want to be a skilled software developer who has a great passion to explore, lead, and learn new things. My goal is to apply what I've learned to tackle real-world challenges. Right now, I'm passionate about backend development and software architecture.
-</p> -->
+</p> 
 
 [![Sayan3990's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sayan3990&custom_title=Sayan3990's%20GitHub%20Activity%20Graph&theme=chartreuse-dark&area=true&hide_border=true)](https://github.com/Sayan3990/github-readme-activity-graph)
+-->
 
 <div align="center">
 <!--     <h2> <strong> Github Stats </strong> <img src="assests/borderseperator.gif"></h2> -->
