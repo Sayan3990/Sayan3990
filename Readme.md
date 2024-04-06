@@ -12,7 +12,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan3990&theme=chartreuse-dark&hide_border=true" alt="Sayan's Streak" width="49%" >
     <img src="https://github-readme-stats.vercel.app/api?username=Sayan3990&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sayan's Github Activity" width="49%">
     <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Sayan3990&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=Sayan3990&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan3990&langs_count=8&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true" alt="Sayan's Most Used Languages" width="49%"> -->
 </div>
 
